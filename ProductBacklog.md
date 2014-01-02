@@ -14,6 +14,6 @@ Jag kommer att köra fem sprintar som vardera är tre dagar långa. Redovisning 
 
 
 ## Sprint Backlog
-[Sprint Backlog på Google Docs](https://docs.google.com/a/student.lnu.se/spreadsheet/ccc?key=0AqiuK7ujpx7WdGJyb1dJQ2xISmxELXBwRS1QYmlIUGc#gid=0)
-[Sprint Burndown Chart på Google Docs](https://docs.google.com/a/student.lnu.se/spreadsheet/ccc?key=0AqiuK7ujpx7WdGVSQTRJNHRKbUtrUW9ZbG5fN0JxN1E#gid=0) 
+[Sprint Backlog på Google Docs](https://docs.google.com/a/student.lnu.se/spreadsheet/ccc?key=0AqiuK7ujpx7WdGJyb1dJQ2xISmxELXBwRS1QYmlIUGc#gid=0)  
+[Sprint Burndown Chart på Google Docs](https://docs.google.com/a/student.lnu.se/spreadsheet/ccc?key=0AqiuK7ujpx7WdGVSQTRJNHRKbUtrUW9ZbG5fN0JxN1E#gid=0)  
 Har ännu inte fått ordning på den och eftersom jag slösar bort tid på detta får det vänta.  
